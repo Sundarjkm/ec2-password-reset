@@ -32,4 +32,4 @@ net localgroup "remote desktop users" [username] /add
 
 
 exampleuser
-net user /add sundar Pass@12345
+net user /add sundar **********
